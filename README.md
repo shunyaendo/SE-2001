@@ -3,8 +3,8 @@
 
 <p align="left"> 
 
-<img alt="Top Langs" width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunyaendo&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-<img alt="github stats" width="53.3%" src="https://github-readme-stats.vercel.app/api?username=shunyaendo&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+<img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=shunyaendo&layout=compact&show_icons=true&theme=dracula" />
+<img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=shunyaendo&theme=dracula&show_icons=ture&count_private=true" />
 
 </p>
 
