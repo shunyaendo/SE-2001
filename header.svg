@@ -19,7 +19,7 @@
                     font: bold 300% Consolas, Monaco,　 monospace;
                     border-right: .2em solid white;
                     width: 16.5em; 
-                    width: 21.0ch;
+                    width: 21.4ch;
                     margin: 0.05em 1.15em;
                     padding-top: 4px;
                     white-space: nowrap;
