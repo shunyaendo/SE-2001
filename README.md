@@ -1,4 +1,3 @@
-### Hi there 👋
 <img alt="shunyaendo" src="header.svg" width="98.2%" height="100%">
 <img alt="github Profile Summary Cards" width="100%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shunyaendo&theme=dracula" />
 
